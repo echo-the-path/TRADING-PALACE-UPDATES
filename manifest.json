@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "packageName": "app.autotrader.next",
+  "versionCode": 44,
+  "versionName": "0.3.29-code44-entry-reason-visibility",
+  "apkUrl": "https://github.com/echo-the-path/TRADING-PALACE-UPDATES/releases/download/code44-1f9845098b8e604c/TRADING-PALACE-CODE44.apk",
+  "sha256": "1f9845098b8e604cc209700d274bb2a11a69b77a56efbc886d4d7814643f33cf",
+  "signerSha256": "85568fec64d9731125c8888cd8d720e9b76c3641d93c6294987dd3d2d699b30a",
+  "sizeBytes": 14264856,
+  "sourceCommit": "654d2c3888890d09aee77e034ac2cfd2cfd7a9f0",
+  "channel": "owner-approved-review",
+  "reviewCandidate": true,
+  "finalReleaseReady": false,
+  "publishedAtUtc": "2026-10-28T20:03:49Z",
+  "releaseNotes": "Bekleme/ret ve giriş engeli nedenleri görünür. İşlem kuralları ve mevcut kayıtlar korunur."
+}
