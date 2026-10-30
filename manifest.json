@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "packageName": "app.autotrader.next",
-  "versionCode": 45,
-  "versionName": "0.3.30-code45-independent-workspaces",
-  "apkUrl": "https://github.com/echo-the-path/TRADING-PALACE-UPDATES/releases/download/code45-20fcdbf76db58d62/TRADING-PALACE-CODE45.apk",
-  "sha256": "20fcdbf76db58d6235478a7c711861e6f6492880df97354f72ad0ff5b54c354d",
+  "versionCode": 46,
+  "versionName": "0.3.31-code46-adaptive-shadow",
+  "apkUrl": "https://github.com/echo-the-path/TRADING-PALACE-UPDATES/releases/download/code46-7c7c983a176c57a3/TRADING-PALACE-CODE46.apk",
+  "sha256": "7c7c983a176c57a3b6aafaf07ccfe573d939c71c9530a0ccbdd094e66ff0729c",
   "signerSha256": "85568fec64d9731125c8888cd8d720e9b76c3641d93c6294987dd3d2d699b30a",
-  "sizeBytes": 14264484,
-  "sourceCommit": "4d36d7b11e7dda9371eb8cd926c96e9f7c631bca",
+  "sizeBytes": 14288100,
+  "sourceCommit": "c29a6b6d7f40ceb6450c4beb13ffa697d400e1e1",
   "channel": "owner-approved-review",
   "reviewCandidate": true,
   "finalReleaseReady": false,
-  "publishedAtUtc": "2026-10-29T18:41:53Z",
-  "releaseNotes": "Spot/Vadeli için beşer bağımsız motor; alan bazlı işlem sahipliği ve ayrı analiz kuyrukları. Mevcut bakiye, pozisyon ve geçmiş kayıtları korunur."
+  "publishedAtUtc": "2026-10-30T18:28:17Z",
+  "releaseNotes": "CODE46 live-analysis recovery and independent Spot/Futures adaptive observer; default OFF. User-consent Android update; no live-order authority."
 }
